@@ -6013,23 +6013,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\skatrivesis-\\.nuget\\packages\\": {},
+    "C:\\Users\\skatrivesis\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\skatrivesis\\OneDrive - Knex\\Documents\\GrandCircus\\Labs\\ClientSideValidation_Lab16.1\\ClientSideValidation_Lab16.1\\ClientSideValidation_Lab16.1.csproj",
+      "projectUniqueName": "C:\\Users\\skatrivesis\\OneDrive - KNEX\\Documents\\GrandCircus\\Labs\\ClientSideValidation_Lab16.1\\ClientSideValidation_Lab16.1\\ClientSideValidation_Lab16.1.csproj",
       "projectName": "ClientSideValidation_Lab16.1",
-      "projectPath": "C:\\Users\\skatrivesis\\OneDrive - Knex\\Documents\\GrandCircus\\Labs\\ClientSideValidation_Lab16.1\\ClientSideValidation_Lab16.1\\ClientSideValidation_Lab16.1.csproj",
-      "packagesPath": "C:\\Users\\skatrivesis-\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\skatrivesis\\OneDrive - Knex\\Documents\\GrandCircus\\Labs\\ClientSideValidation_Lab16.1\\ClientSideValidation_Lab16.1\\obj\\",
+      "projectPath": "C:\\Users\\skatrivesis\\OneDrive - KNEX\\Documents\\GrandCircus\\Labs\\ClientSideValidation_Lab16.1\\ClientSideValidation_Lab16.1\\ClientSideValidation_Lab16.1.csproj",
+      "packagesPath": "C:\\Users\\skatrivesis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\skatrivesis\\OneDrive - KNEX\\Documents\\GrandCircus\\Labs\\ClientSideValidation_Lab16.1\\ClientSideValidation_Lab16.1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\skatrivesis-\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\skatrivesis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
